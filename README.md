@@ -1,1 +1,3 @@
-# Commercial_area_analysis_service_using_ML
+# [와이폴라리스] 단기산업협력 프로젝트 - 머신러닝을 이용한 상권서비스 개발 (2020. 08. 28 - 11. 29)
+---
+

@@ -35,7 +35,8 @@ Service Domain: http://52.78.155.149:5000
 * 부산시 읍면동별 매출액 - 통계청(KOSIS) [link](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1KI1511_10&vw_cd=MT_ZTITLE&list_id=K2_KI_001_001_001&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE)
 * 읍면동별 요일별 유동인구 - 부산시 빅데이터포털 [link](https://bigdata.busan.go.kr/)
 ---
-### 설명
+### 서비스 설명
+<img src = https://user-images.githubusercontent.com/54921730/108481280-59819180-72db-11eb-9a8f-cf38e06e4a01.png width = 1000, max_width_size=100% height = auto />
 > * 카카오 API를 이용하여 지도를 띄우고 메인페이지를 표출한다. 
 > * 사용자가 구를 검색해 동을 선택하면 인구수를 보여주고 유동인구, 경쟁업체수, 총인구, 구매력, 매출액대비 영업이익 등
 5개의 변수로 생성된 방사형그래프를 지도의 오른쪽에 띄움으로써 상권분석의 결과를 보여준다.

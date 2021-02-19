@@ -27,8 +27,8 @@
 
 **[데이터 출처]**
 > * 상가정보 - 공공데이터 포털 [link](https://www.data.go.kr/data/15059997/fileData.do)
-> * 읍면동별 세대 및 인구 - 통계청(KOSIS) [link](https://kosis.kr/statHtml/statHtml.do?orgId=202&tblId=DT_B1)
-> * 구군별 총 카드이용금액  - 부산시 빅데이터포털 [link](https://bigdata.busan.go.kr/)
+> * 읍면동별 세대 및 인구, 부산시 읍면동별 매출액 - 통계청(KOSIS) [link](https://kosis.kr/statHtml/statHtml.do?orgId=202&tblId=DT_B1)
+> * 구군별 총 카드이용금액, 읍면동별 요일별 유동인구  - 부산시 빅데이터포털 [link](https://bigdata.busan.go.kr/)
 > * 부산시 읍면동별 매출액 - 통계청(KOSIS) [link](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1KI1511_10&vw_cd=MT_ZTITLE&list_id=K2_KI_001_001_001&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE)
 > * 읍면동별 요일별 유동인구 - 부산시 빅데이터포털 [link](https://bigdata.busan.go.kr/)
 ---

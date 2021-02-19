@@ -14,19 +14,16 @@
 
 **[서버 사양]**
 서버 : AWS t2.micro 인스턴스
-- CPU 1, 메모리 1GiB, i386, x86_64
-- ubuntu 18.04
-- IP주소 : 52.78.155.149
-Service Domain: http://52.78.155.149:5000
+> - CPU 1, 메모리 1GiB, i386, x86_64
+> - ubuntu 18.04
 
 **[개발 환경]**
 파이썬 : python3.8.5
 파이썬 라이브러리 : flask, pymysql
 데이터베이스 : db.t2.micro 
-- mysql 8.0.20
-- 엔드 포인트 : database-1.c4y1s8zaxihb.ap-northeast-2.rds.amazonaws.com
-- 계정 : admin, 비밀번호 : mypassword
-- 코드 저장소 [code](https://github.com/Kangdamii/yproject)
+> - mysql 8.0.20
+> - 엔드 포인트 : database-1.c4y1s8zaxihb.ap-northeast-2.rds.amazonaws.com
+> - 코드 저장소 [code](https://github.com/Kangdamii/yproject)
 
 **[데이터 출처]**
 > * 상가정보 - 공공데이터 포털 [link](https://www.data.go.kr/data/15059997/fileData.do)

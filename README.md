@@ -36,7 +36,9 @@ Service Domain: http://52.78.155.149:5000
 * 읍면동별 요일별 유동인구 - 부산시 빅데이터포털 [link](https://bigdata.busan.go.kr/)
 ---
 ### 서비스 설명
-<img src = https://user-images.githubusercontent.com/54921730/108481280-59819180-72db-11eb-9a8f-cf38e06e4a01.png width = 1000, max_width_size=100% height = auto/>
+<img src = "https://user-images.githubusercontent.com/54921730/108481280-59819180-72db-11eb-9a8f-cf38e06e4a01.png" width = 1000, max_width_size=100% height = auto/>
+<img src = "https://user-images.githubusercontent.com/54921730/108481592-b9783800-72db-11eb-8264-299d4db42266.png" width = 1000, max_width_size=100% height = auto/>
+
 
 > * 카카오 API를 이용하여 지도를 띄우고 메인페이지를 표출한다. 
 > * 사용자가 구를 검색해 동을 선택하면 인구수를 보여주고 유동인구, 경쟁업체수, 총인구, 구매력, 매출액대비 영업이익 등

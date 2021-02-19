@@ -25,7 +25,7 @@ Service Domain: http://52.78.155.149:5000
 - mysql 8.0.20
 - 엔드 포인트 : database-1.c4y1s8zaxihb.ap-northeast-2.rds.amazonaws.com
 - 계정 : admin, 비밀번호 : mypassword
-- [code](https://github.com/Kangdamii/yproject)
+- 코드 저장소 [code](https://github.com/Kangdamii/yproject)
 
 ---
 ### 설명

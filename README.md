@@ -5,6 +5,7 @@
 
 단기 산학협력 프로젝트 (2020/08/28 - 2020/11/29)
 * 머신러닝을 이용하여 소매 및 도매점에 한하여 무인점포를 위한 상권분석 서비스 웹페이지 구축
+  * 부산광역시의 읍면동별 분석  
 
 **팀장 : `허정훈`**
 > 팀원 : `이가영` `강다미` `권기호`
@@ -27,6 +28,12 @@ Service Domain: http://52.78.155.149:5000
 - 계정 : admin, 비밀번호 : mypassword
 - 코드 저장소 [code](https://github.com/Kangdamii/yproject)
 
+**[데이터 출처]**
+* 상가정보 - 공공데이터 포털 [link](https://www.data.go.kr/data/15059997/fileData.do)
+* 읍면동별 세대 및 인구 - 통계청(KOSIS) [link](https://kosis.kr/statHtml/statHtml.do?orgId=202&tblId=DT_B1)
+* 구군별 총 카드이용금액  - 부산시 빅데이터포털 [link](https://bigdata.busan.go.kr/)
+* 부산시 읍면동별 매출액 - 통계청(KOSIS) [link](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1KI1511_10&vw_cd=MT_ZTITLE&list_id=K2_KI_001_001_001&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE)
+* 읍면동별 요일별 유동인구 - 부산시 빅데이터포털 [link](https://bigdata.busan.go.kr/)
 ---
 ### 설명
 > * 카카오 API를 이용하여 지도를 띄우고 메인페이지를 표출한다. 

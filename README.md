@@ -19,7 +19,7 @@
 
 **[개발 환경]**
 파이썬 : python3.8.5
-파이썬 라이브러리 : flask, pymysql
+파이썬 라이브러리 : flask, pymysql, sklearn
 데이터베이스 : db.t2.micro 
 > - mysql 8.0.20
 > - 엔드 포인트 : database-1.c4y1s8zaxihb.ap-northeast-2.rds.amazonaws.com
